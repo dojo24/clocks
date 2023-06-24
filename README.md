@@ -1,8 +1,2 @@
 # clocks
-Just changing things
-
-
-
-making changes on branch only
-
-lala lalalala
+Auto deployed via github at melissa-24.github.io/clocks/
